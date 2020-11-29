@@ -12,7 +12,11 @@ Hallgren (2014) describes the benefits of using simulations and provides example
     *  
     *  
 
-2) In your own words, describe which steps are common to all sorts of simulations. Illustrate with simple examples rather than, or in addition to, using terms such as assumptions and parameters.  
+
+
+
+2) In your own words, describe which steps are common to all sorts of simulations. Illustrate with simple examples rather than, or in addition to, using terms such as assumptions and parameters. 
+
 **1)**   set the assumptions and specify the parameters of a dataset
 
 **2)**   generated the dataset using functions like sample/rnorm, according to the assumptions and parameters set in step1 
@@ -27,14 +31,20 @@ Hallgren (2014) describes the benefits of using simulations and provides example
 
 
 
+
 3)	In your own words, describe the 3 types of applications for simulations covered by the author.  
+
 **1)**   answer a novel question about statistical analysis, eg. evaluate the robustness of a statistical procedures like mediation analysis
 
 **2)**   estimate statistical power of Sobel test
 
 **3)**   obtain confidence intervals of parameters through bootstrapping
 
-4)	Describe, with your own words and/or examples, the 4 limitations to simulations mentioned by the author.  
+
+
+
+4)	Describe, with your own words and/or examples, the 4 limitations to simulations mentioned by the author. 
+
 **1)**   real-world data is more dirty than simulated data and the degree to which these aspects should be modeled into the data may be unknown and thus at times difficult to incorporate in a realistic manner
 
 **2)**   it’s unrealistic and typically impossible to pinpoint the exact parameter values that apply in the simulation analysis 
